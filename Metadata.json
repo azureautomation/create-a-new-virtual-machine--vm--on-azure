@@ -1,7 +1,7 @@
 {
     "Author": "Viv Lingaiah",
     "ContentSize": 9951,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-new-virtual-machine-(vm)-on-azure/master/New-AzureVMSample.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-new-virtual-machine--vm--on-azure/master/New-AzureVMSample.ps1",
     "DownloadCount": 5619,
     "Id": "Create-a-new-Virtual-83b3046a",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This Azure Automation runbook creates a new Virtual Machine (VM) on Azure using New-AzureQuickVM cmdlet which is available in Azure module. Given a certificate which is used to connect to your subscription, Subscription Id and OS Name(that is available in VM Gallery), the runbo",
     "Title": "Create a new Virtual Machine (VM) on Azure",
     "UpdatedDate": "2014-9-10T00:00:00",
-    "Url": "https://github.com/azureautomation/create-a-new-virtual-machine-(vm)-on-azure",
+    "Url": "https://github.com/azureautomation/create-a-new-virtual-machine--vm--on-azure",
     "UserTags": "Windows Azure Virtual Machines, Azure Automation"
 }
